@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rockytherevolutionary
+- 👀 I’m interested in using software for revolutionary purposes
+- 🌱 I’m currently relearning TypeScript after the 2.0 relase
+- 💞️ I’m looking to collaborate on protocol-driven, beautiful decentralized software
+- 📫 Contact via @rocky_the_revolutionary:matrix.org
